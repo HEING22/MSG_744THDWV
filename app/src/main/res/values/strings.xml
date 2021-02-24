@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MSG</string>
+    <string-array name="SneakersBrands">
+        <item>Nike</item>
+        <item>Adidas</item>
+        <item>Famous Collaboration</item>
+        <item>Yeezy</item>
+        <item>Jordan</item>
+    </string-array>
+
+    <string-array name="SneakersDetails">
+        <item>This category includes Sneakers from Nike.</item>
+        <item>This category includes Sneakers from Adidas.</item>
+        <item>This category includes Famous Collaboration Sneakers</item>
+        <item>This category includes all models of Yeezy. </item>
+        <item>This category includes Air Jordan Low,mid and high.</item>
+
+    </string-array>
+
+</resources>

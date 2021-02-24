@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415734184204",
+    "firebase_url": "https://sneakersapplication-6fe62-default-rtdb.firebaseio.com",
+    "project_id": "sneakersapplication-6fe62",
+    "storage_bucket": "sneakersapplication-6fe62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415734184204:android:d43f1187ace45043403129",
+        "android_client_info": {
+          "package_name": "com.example.msg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415734184204-m68ncoc0g3vqmjegibs203b949vquk0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msg",
+            "certificate_hash": "0c405d5b22bef730eea8247318f60e68b304adcb"
+          }
+        },
+        {
+          "client_id": "415734184204-vprfbok19ie5mj2v35j5pt3qo2rtse71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp5LBDt3jF6qDuKby63O7aCfV0vRrMQq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415734184204-vprfbok19ie5mj2v35j5pt3qo2rtse71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_width">300dp</dimen>
+    <dimen name="photo_height">300dp</dimen>
+
+    <dimen name="photo_margin_left">55dp</dimen>
+    <dimen name="photo_margin_top">5dp</dimen>
+
+    <dimen name="photo_padding">8dp</dimen>
+
+
+    <dimen name="container_margin_left">30dp</dimen>
+    <dimen name="container_margin_top">20dp</dimen>
+
+    <dimen name="component_margin_left">10dp</dimen>
+    <dimen name="component_margin_top">10dp</dimen>
+
+
+
+
+</resources>
